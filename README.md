@@ -26,9 +26,9 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working in my freetime on learning different programming languages.
 
-- :seedling: Exploring video game development.
+- :seedling: Video game development.
 
-- :zap: I like to play with different fun techy things.
+- :zap: Web Development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
