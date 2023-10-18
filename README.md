@@ -24,11 +24,11 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working in my freetime on learning different programming languages.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring video game development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I like to play with different fun techy things.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
